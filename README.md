@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Im just an informatic student who like mobile programming 
+
 <!--
 **Kakaranara/Kakaranara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
