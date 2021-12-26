@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im just an informatic student who like mobile programming 😄 <br>
+Im just an informatic student who like mobile programming :D <br>
 now im in learn of kotlin and flutter project to make a multiplatform mobile development.
 
 
