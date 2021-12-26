@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Im just an informatic student who like mobile programming 
+Im just an informatic student who like mobile programming 😄
+now im in learn of kotlin and flutter project to make a multiplatform mobile development.
+
 
 <!--
 **Kakaranara/Kakaranara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
