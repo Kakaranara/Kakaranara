@@ -11,4 +11,4 @@ https://play.google.com/store/apps/developer?id=Kakaranara&hl=en
 Here's my most used language : 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakaranara&hide=TeX&layout=compact) <br>
-*nb: for dart/flutter, im using gitlab for it so there's not much dart project did i have except my internship project. 
+*nb: for dart/flutter, im using gitlab for my internship project, and also it was private. So maybe there's not much flutter project in my github. 
